@@ -1,5 +1,6 @@
 # Machine_Learning_Assign_2
 The second assignment.
+This assignment uses the SVM algorithm to conduct classification on MNIST database.
 
 This programs will need numpy, scipy, pandas, sk-learn and matplotlib packages in python, and the edition of python is 3.6.5.
 
